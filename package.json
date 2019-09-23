@@ -1,6 +1,6 @@
 {
 	"scripts": {
-		"start": "MY_VAR=abc parcel index.html"
+		"start": "HEAD=head BODY=body parcel index.html"
 	},
 	"devDependencies": {
 		"parcel-bundler": "^1.12.3"
